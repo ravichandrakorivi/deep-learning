@@ -1,0 +1,14 @@
+# Google credentials
+service_account.json
+
+# Enivironment variables
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+.pytest_cache/
+
