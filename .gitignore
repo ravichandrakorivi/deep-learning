@@ -12,3 +12,6 @@ __pycache__/
 *.pyc
 .pytest_cache/
 
+mnist_data
+./data
+.datasets
